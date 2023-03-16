@@ -1,0 +1,151 @@
+[
+    [
+        {
+            "name": "Kuotu",
+            "cost": 11,
+            "ressources":[
+                {
+                    "name": "Ufoojiwa",
+                    "properties": [
+                        {
+                            "type": "Wet",
+                            "ammount": 8
+                        },
+                        {
+                            "type": "Sturdy",
+                            "ammount": 11
+                        },
+                        {
+                            "type": "Herbal",
+                            "ammount": 29
+                        }
+                    ]
+                },
+                {
+                    "name": "Qeuy",
+                    "properties": [
+                        {
+                            "type": "Wet",
+                            "ammount": 19
+                        },
+                        {
+                            "type": "Metallic",
+                            "ammount": 11
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Haoyagof",
+            "cost": 68,
+            "ressources":[
+                {
+                    "name": "Heuedeox Ingots",
+                    "properties":[
+                        {
+                            "type": "Volatile",
+                            "ammount": 17
+                        },
+                        {
+                            "type": "Sweet",
+                            "ammount": 13
+                        },
+                        {
+                            "type": "Rusty",
+                            "ammount": 25
+                        },
+                        {
+                            "type": "Organic",
+                            "ammount": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Osefix",
+            "cost": 1,
+            "ressources":[
+                {
+                    "name": "Sekave",
+                    "properties":[
+                        {
+                            "type": "Herbal",
+                            "ammount": 17
+                        },
+                        {
+                            "type": "Exotic",
+                            "ammount": 15
+                        },
+                        {
+                            "type": "Organic",
+                            "ammount": 11
+                        },
+                        {
+                            "type": "Spicy",
+                            "ammount": 13
+                        },
+                        {
+                            "type": "Wet",
+                            "ammount": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Juve",
+            "cost": 2,
+            "ressources":[
+                {
+                    "name": "Ciojaiw Ore",
+                    "properties":[
+                        {
+                            "type": "Metallic",
+                            "ammount": 57
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Reaofaemu",
+            "cost": 4,
+            "ressources":[
+                {
+                    "name": "Droplets of Geurbiqoy",
+                    "properties":[
+                        {
+                            "type": "Herbal",
+                            "ammount": 63
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Giqew",
+            "cost": 6,
+            "ressources":[
+                {
+                    "name": "Veil",
+                    "properties":[
+                        {
+                            "type": "Metallic",
+                            "ammount": 25
+                        },
+                        {
+                            "type": "Fluffy",
+                            "ammount": 9
+                        },
+                        {
+                            "type": "Sturdy",
+                            "ammount": 25
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+]
