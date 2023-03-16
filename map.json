@@ -161,6 +161,117 @@
                     ]   
                 }
             ]
+        },
+        {
+            "name": "Yoolokha",
+            "cost": 14,
+            "ressources":[
+                {
+                    "name": "Esefowuho Ingots",
+                    "properties": [
+                        {
+                            "type": "Metallic",
+                            "ammount": 10
+                        },
+                        {
+                            "type": "Smelly",
+                            "ammount": 18
+                        },
+                        {
+                            "type": "Wet",
+                            "ammount": 5
+                        },
+                        {
+                            "type": "Sturdy",
+                            "ammount": 13
+                        },
+                        {
+                            "type": "Artifical",
+                            "ammount": 8
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Euoy",
+            "cost": 20,
+            "ressources":[
+                {
+                    "name": "Droplets of Vosus",
+                    "properties": [
+                        {
+                            "type": "Cool",
+                            "ammount": 35
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Raheauimi",
+            "cost": 257,
+            "ressources":[
+                {
+                    "name": "Eqeu Ingots",
+                    "properties":[
+                        {
+                            "type": "Artifical",
+                            "ammount": 13
+                        },
+                        {
+                            "type": "Spicy",
+                            "ammount": 12
+                        },
+                        {
+                            "type": "Metallic",
+                            "ammount": 25
+                        },
+                        {
+                            "type": "Wet",
+                            "ammount": 19
+                        }
+                    ]
+                },
+                {
+                    "name": "Uhuwo",
+                    "properties": [
+                        {
+                            "type": "Slimy",
+                            "ammount": 23
+                        },
+                        {
+                            "type": "Sturdy",
+                            "ammount": 5
+                        },
+                        {
+                            "type": "Smelly",
+                            "ammount": 18
+                        },
+                        {
+                            "type": "Wet",
+                            "ammount": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Xepi Ore",
+                    "properties": [
+                        {
+                            "type": "Wet",
+                            "ammount": 29
+                        },
+                        {
+                            "type": "Exotic",
+                            "ammount": 25
+                        },
+                        {
+                            "type": "Volatile",
+                            "ammount": 10
+                        }
+                    ]
+                }
+            ]
         }
     ]
 ]
