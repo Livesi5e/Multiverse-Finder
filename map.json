@@ -151,7 +151,15 @@
             "name": "Walouih",
             "cost": 9,
             "ressources":[
-                
+                {
+                    "name": "Epiwfiv",
+                    "properties":[
+                        {
+                            "type": "Sturdy",
+                            "ammount": 71
+                        }
+                    ]   
+                }
             ]
         }
     ]

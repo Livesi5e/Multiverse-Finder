@@ -1,14 +1,15 @@
 import json
+import urllib.request
 import scripts.Coordinate as cord
 
 map = {}
 properties = {}
 validInput = False
 
-with open('map.json', 'r') as f:
+with urllib.request.urlopen("https://raw.githubusercontent.com/Livesi5e/Multiverse-Finder/master/map.json") as f:
     map = json.load(f)
 
-with open('properties.json', 'r') as f:
+with urllib.request.urlopen("https://raw.githubusercontent.com/Livesi5e/Multiverse-Finder/master/properties.json") as f:
     properties = json.load(f)
 
 while not validInput:
@@ -53,3 +54,6 @@ for x in range(10):
         print("\n" + mapWeight[x].name + "\nCoords: " + str(mapWeight[x].x - 60000) + '|' + str(60000 - mapWeight[x].y) + "\nCost: " + str(mapWeight[x].cost) + "\nEfficiency: " + str(mapWeight[x].weight))
     except:
         break
+
+print("\nTo close the program, press 'Enter'")
+input()
