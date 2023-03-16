@@ -146,6 +146,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "Walouih",
+            "cost": 9,
+            "ressources":[
+                
+            ]
         }
     ]
 ]
